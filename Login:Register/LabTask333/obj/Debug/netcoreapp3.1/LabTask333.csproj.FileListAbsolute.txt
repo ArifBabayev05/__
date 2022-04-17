@@ -1,0 +1,13 @@
+/Users/babayev_/Desktop/LabDay4_Connole_App_Login_Register-master/LabTask333/bin/Debug/netcoreapp3.1/LabTask333.deps.json
+/Users/babayev_/Desktop/LabDay4_Connole_App_Login_Register-master/LabTask333/bin/Debug/netcoreapp3.1/LabTask333.runtimeconfig.json
+/Users/babayev_/Desktop/LabDay4_Connole_App_Login_Register-master/LabTask333/bin/Debug/netcoreapp3.1/LabTask333.runtimeconfig.dev.json
+/Users/babayev_/Desktop/LabDay4_Connole_App_Login_Register-master/LabTask333/bin/Debug/netcoreapp3.1/LabTask333.dll
+/Users/babayev_/Desktop/LabDay4_Connole_App_Login_Register-master/LabTask333/bin/Debug/netcoreapp3.1/LabTask333.pdb
+/Users/babayev_/Desktop/LabDay4_Connole_App_Login_Register-master/LabTask333/obj/Debug/netcoreapp3.1/LabTask333.csproj.AssemblyReference.cache
+/Users/babayev_/Desktop/LabDay4_Connole_App_Login_Register-master/LabTask333/obj/Debug/netcoreapp3.1/LabTask333.GeneratedMSBuildEditorConfig.editorconfig
+/Users/babayev_/Desktop/LabDay4_Connole_App_Login_Register-master/LabTask333/obj/Debug/netcoreapp3.1/LabTask333.AssemblyInfoInputs.cache
+/Users/babayev_/Desktop/LabDay4_Connole_App_Login_Register-master/LabTask333/obj/Debug/netcoreapp3.1/LabTask333.AssemblyInfo.cs
+/Users/babayev_/Desktop/LabDay4_Connole_App_Login_Register-master/LabTask333/obj/Debug/netcoreapp3.1/LabTask333.csproj.CoreCompileInputs.cache
+/Users/babayev_/Desktop/LabDay4_Connole_App_Login_Register-master/LabTask333/obj/Debug/netcoreapp3.1/LabTask333.dll
+/Users/babayev_/Desktop/LabDay4_Connole_App_Login_Register-master/LabTask333/obj/Debug/netcoreapp3.1/LabTask333.pdb
+/Users/babayev_/Desktop/LabDay4_Connole_App_Login_Register-master/LabTask333/obj/Debug/netcoreapp3.1/LabTask333.genruntimeconfig.cache
